@@ -1,0 +1,6 @@
+{
+  "name": "ZStore",
+  "description": "A modern, professional online marketplace featuring curated products, flash deals, seamless checkout, order tracking, wishlist, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
